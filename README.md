@@ -21,4 +21,5 @@ an extensive list it would make sense to maintain/read it from an external file.
 
 Enjoy!
 
-
+#PS
+suggestions welcome!
